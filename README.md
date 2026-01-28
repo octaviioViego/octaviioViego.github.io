@@ -9,7 +9,7 @@ Aquí puedes acceder directamente a las aplicaciones funcionales:
 * **[Simulador de Estructuras de Datos](https://octaviioviego.github.io/simulado_estructuras/)**
     * *Descripción:* Una herramienta interactiva para visualizar estructuras de datos.
     * *Tecnologías:* React, Parcel, TypeScript.
-    * *Código Fuente:* [Ver repositorio aquí]((https://octaviioviego.github.io/simulador-estructura-datos/))
+    * *Código Fuente:* [Ver repositorio aquí](https://octaviioviego.github.io/simulador-estructura-datos/)
 
 ---
 
