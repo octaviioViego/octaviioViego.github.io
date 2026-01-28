@@ -6,7 +6,7 @@ Aquí es donde mantengo vivas las versiones de producción de mis proyectos y ex
 ##  Proyectos en Vivo
 Aquí puedes acceder directamente a las aplicaciones funcionales:
 
-* **[Simulador de Estructuras de Datos](https://octaviioviego.github.io/simulado-estructuras-datos/)**
+* **[Simulador de Estructuras de Datos](https://octaviioViego.github.io/simulador-estructura-datos/)**
     * *Descripción:* Una herramienta interactiva para visualizar estructuras de datos.
     * *Tecnologías:* React, Parcel, TypeScript.
     * *Código Fuente:* [Ver repositorio aquí](https://github.com/octaviioViego/simulador-estructura-datos/)
